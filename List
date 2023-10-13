@@ -1,0 +1,5 @@
+lucky_numbers = [4, 84, 15, 164, 23, 42]
+friends = ["Kevin", "Karen", "Jim", "Jim", "Oscar", "Toby"]
+
+lucky_numbers.sort()
+print(lucky_numbers)
